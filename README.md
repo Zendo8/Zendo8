@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Zendo8/Zendo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **🇯🇵 Welcome to My Personal GitHub Page!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BnbN62&background=000000&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00AAFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=BnbN62&theme=dark&bg=000000&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00AAFF)](https://leetcode.com/BnbN62/)
+
+</div>
